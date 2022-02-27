@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canterburie[s] pilgrimage [i]n the testimony of an accused conscjenc[e] for the bloud of Mr. Burton. Mr. Prynne. and Doctor Bastwicke. [A]nd the just deserved sufferings he lyes under : shewing the glory of Refo[r]mation, above prelaticall tyranny. [W]herein is laid open, the reallity of the Scottish nation with the kingdome of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79917</idno>
+            <idno type="STC">Wing C459</idno>
+            <idno type="STC">Thomason E172_28</idno>
+            <idno type="STC">ESTC R17368</idno>
+            <idno type="EEBO-CITATION">99860178</idno>
+            <idno type="PROQUEST">99860178</idno>
+            <idno type="VID">112288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112288)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Canterburie[s] pilgrimage [i]n the testimony of an accused conscjenc[e] for the bloud of Mr. Burton. Mr. Prynne. and Doctor Bastwicke. [A]nd the just deserved sufferings he lyes under : shewing the glory of Refo[r]mation, above prelaticall tyranny. [W]herein is laid open, the reallity of the Scottish nation with the kingdome of England.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Walker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page closely trimmed; loss of text.</note>
+                  <note>Title page features woodcut illustration.</note>
+                  <note>"A satire upon Archbishop Laud"--cf. BM.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bastwick, John, 1593-1654 --  Early works to 1800.</term>
+               <term>Burton, William, 1575-1645 --  Early works to 1800.</term>
+               <term>Laud, William, 1573-1645 --  Early works to 1800.</term>
+               <term>Prynne, William, 1600-1669 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112288:1"/>
+            <pb facs="tcp:112288:1" rendition="simple:additions"/>
+            <p>CANTERBVRIES PILGRIMAGE: <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Testimony of an accuſed CONSCJENC<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For the Bloud of
+<list>
+                  <item>Mr. <hi>Burton.</hi>
+                  </item>
+                  <item>Mr. <hi>Prynne.</hi> AND</item>
+                  <item>Doctor <hi>Baſtwicke.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed the juſt deſerved Sufferings he lyes under: Shewing the Glory of Refo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mation, above Prelaticall Tyranny.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>erein is laid open, the reallity of the <hi>Scottiſh Nation</hi> with the Kingdome of <hi>England.</hi>
+            </p>
+            <figure>
+               <p>REDE AND CONSIDAR</p>
+            </figure>
+            <p>LONDON Printed for H. Walker, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112288:2"/>
+            <pb facs="tcp:112288:2"/>
+            <head>CANTERBVRIES PILGRIMAGE.</head>
+            <p>THE juſt God of Heaven, being provoked by Sin, beyond the Bounds of Grace &amp; Pardon, (though he be the Fountaine of Mercy it ſelf) yet will he manifeſt his Power when he is ſo provoked, which makes him to ſuffer <hi>Monſters</hi> to Ty<g ref="char:EOLhyphen"/>rannize, <hi>Scillaes, Mariuſes, Neroes, Diocleſians &amp;c.</hi> which brought little <hi>Laud</hi> to our diſpleaſed Affections: ſuch ravening <hi>Wolvet,</hi> like cruell <hi>Beares,</hi> are fitteſt to aſſociate the hungry ſtarved <hi>Monſters,</hi> beyond the <hi>Alpes high Hils,</hi> and not to mixe themſelves into our mercifull go<g ref="char:EOLhyphen"/>vernment; for <hi>the King of Iſrael is a mercifull King, &amp; out Lawes are full of pitty,</hi> and, which is above all, we profeſſe the worſhip of a gratious, and mercifull God; and thus we learn, that when a people are oppreſt with Tyranny, let them call upon the Lord, and returne from all their evill wayes; and then the Lord will ſet them free, and give them victory over thoſe Tyrants, that ſo cruelly oppreſſe them: as bleſſed be his holy name, he hath now done for us; covering their faces with ſhame amongſt us; ſo that we may ſay with the Poet:</p>
+            <q>
+               <l>
+                  <hi>O ſimple fooles, what mean you hence to runne,</hi>
+               </l>
+               <l>
+                  <hi>You evill chuſe, your wonted will to ſhun;</hi>
+               </l>
+               <pb facs="tcp:112288:3"/>
+               <l>
+                  <hi>Turne backe for ſhame, turne back, and doe not flye,</hi>
+               </l>
+               <l>
+                  <hi>To live with ſhame, and let your Honours dye,</hi>
+               </l>
+               <l>
+                  <hi>Why are you gone, are you afraid to dye?</hi>
+               </l>
+               <l>
+                  <hi>Is no hope left, a fortune here to try?</hi>
+               </l>
+               <l>
+                  <hi>Shall one vild Pagan boaſt another day,</hi>
+               </l>
+               <l>
+                  <hi>His cauſe alone hath driv'n you all away?</hi>
+               </l>
+            </q>
+            <p>When the Lord made <hi>England</hi> firſt a <hi>Proteſtant church,</hi> he beſtowed upon her a great Bleſſing: he made her the <hi>spouſe of Ieſus Chriſt,</hi> whoſe <hi>Members</hi> are his <hi>Saints on earth:</hi> this was a happy marriage for our Nation and herein have we bin happy ever ſince. Onely what hath bin Eclipſed ſince by <hi>Popery,</hi> makes us miſerable moſt of all; though by many other wayes we ſin: yet this hath bin our greateſt <hi>miſery.</hi> God was provoked by our ſins, when he did threaten us with <hi>Famine. Plague Warres,</hi> &amp; we have often felt his <hi>gentle Chaſtiſements,</hi> but we did not repent, and turn unto the Lord, &amp; enter into Cove<g ref="char:EOLhyphen"/>nant with him: we cryed like wanton Children whilſt we felt the ſmart, but hated not the Cauſe; <hi>God ſent us good Miniſters to gather his people unto him; but the en<g ref="char:EOLhyphen"/>vious mans tares sprang up faſter in our rotten hearts, then Gods good ſeed: and Satan raiſed up oppoſers, even of thoſe godly Preachers themſelves, to ſtop their mouthes:</hi> Then the Lord permitted blind unpreaching <hi>Prelates,</hi> &amp; <hi>Mi<g ref="char:EOLhyphen"/>niſters</hi> to be thruſt into our <hi>Churches;</hi> who, whilſt they allured us with the beauty of the Temple walls, &amp; drew our affections to behold the huge Cedars of the church Mountaines; but fed us not with the Word of God: they fed us with Leaves and Acorns, like the Beaſt of <hi>Rome,</hi> and with-held from us the truth of Scriptures, the ſavory venſon for our ſoules; and O how blind we were, to ſit ſtill; as if we had enough! But oh, the ſad groans, and heave ſighes that paſſed from the Soules of Gods holy people, the zealous Profeſſors amongſt us! When Biſhop <hi>Laud</hi> was made <hi>Arch-biſhop of Canterbury;</hi> his
+<pb facs="tcp:112288:3"/>diſaffection to the <hi>Truth of Proteſtant Religion,</hi> cauſed his deſigns to be expected as Tyrannous in his <hi>Metro<g ref="char:EOLhyphen"/>politan See,</hi> and to be as terrible to the Church &amp; Chil<g ref="char:EOLhyphen"/>dren of God, as the fierce winds and ſtormes, to the halfe-drowned Paſſengers in the turmoyling waves of the troubled ſea many were our prophets to foretel this ſad diſaſter. And if we looke upon this <hi>Monſter,</hi> we ſhall ſee how high in pride he ſoar'd, whilſt all Oppoſers of his will were indangered thereby to incurre his great diſpleaſure, <hi>whoſe proſecution was without pitty.</hi>
+            </p>
+            <p>This Ork directed his courſe like a <hi>Canterbury Ty<g ref="char:EOLhyphen"/>rant,</hi> againſt the faithfull, godly, &amp; <hi>Religious Proteſtants,</hi> labouring to ſuppreſſe Purity: yet being zealouſly affe<g ref="char:EOLhyphen"/>cted with <hi>Romiſh ſuperſtition,</hi> and blind <hi>Popery,</hi> roaring in a blind devotion; yet was his ſent ſo ſharpe, that it was hard for any ſincere, godly Profeſſor, to ſhun his pawes, either in himſelf or his Agents So was his pow<g ref="char:EOLhyphen"/>er alſo great, in ſo much, that few could eſcape him; ſo that alwayes, his Priſoners had little hope, either to fight or flye. Amongſt the reſt, look upon <hi>Reverend Mr. Bur<g ref="char:EOLhyphen"/>ton,</hi> a grave, and worthy, Religious Divine; how he ſuf<g ref="char:EOLhyphen"/>fered under him, and that for no juſt cauſe, that I could ever heare; but becauſe he was ſo pure, ſo holy, &amp; that <hi>tyrants</hi> will grew ſo great, that neither <hi>piety</hi> nor <hi>pity, wife,</hi> nor <hi>Children,</hi> would work upon him: No, he muſt have bloud, his eares muſt be cut, &amp; that in vild diſgrace upon the Pillory, <hi>when the tender eyes of all ſpectators, could not refraine weeping, to behold ſo ſad a spectacle.</hi> Looke upon D. <hi>Baſtwicke,</hi> a meek, courteous, affable Gentleman; yet to pleaſe the fancy of the bloud-thirſty <hi>Monſter,</hi> muſt ſuffer his eares alſo to be cropt. And how hath <hi>Maſter Pryme,</hi> that admired Lawyer, whoſe Pious, and Godly Converſation, is tranſcendent above moſt; yet had his eares twice clipt, his Cheekes burnt with an hot Iron, his Bookes burnt before His Face,
+<pb facs="tcp:112288:4"/>&amp; each of them conſtrain'd to live in exile, from wives, Children, families, flock, friends: O monſtrous cruelty, thus to trample on the blond of holy <hi>Chriſtians;</hi> what ſhall I ſay of <hi>D. Laiton, M. Lilborn, Nathaniel Wickins,</hi> and many others who have bin cruelly impriſoned, cen<g ref="char:EOLhyphen"/>ſured, whipt, fined beyond the bonds of charity, or <hi>Chri<g ref="char:EOLhyphen"/>ſtian ty,</hi> who have bin afflicted with the vaſt Cave of his illegall, and unjuſt proceeding Courts, and his large family of <hi>Rotchet Prelates;</hi> which comely <hi>Matrons,</hi> have curbed the mouthes of faithfull Miniſters, whilſt this great Goat keeper himſelf, hath <hi>deſtroyed the graſſe upon the Mountaines, prepared to f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed the ſheepe.</hi>
+            </p>
+            <p>What lamentation was there then amongſt the <hi>Saints,</hi> and godly <hi>people;</hi> how did they mourn to ſee the <hi>Church</hi> ſilled with <hi>popery and ſuperſtition,</hi> and <hi>Popiſt Innovations,</hi> and inſtead of the Miniſters of God (in many places) were ſet the Prieſts of <hi>Baal.</hi> The good <hi>people</hi> of the land prayed for <hi>Reformation,</hi> but reſted (almoſt) deſpairing of releaſe.</p>
+            <p>The <hi>Scots</hi> they riſe, and tell our Kingdome, <hi>that the Orcke of Canterbury, that great Monſter, and his Agents, have kept away their ſiſter, the Church of England, from Chriſt her spouſe, and have polluted her with Popery; &amp; that themſelves alſo, are in danger of the ſame ſad diſaſter and proteſted that they would loſe their lives, before they would permit that their Doctrine ſhould be corrupted.</hi>
+            </p>
+            <p>Hereupon a Parliament was called, which gave both us and them hope of <hi>Reformation;</hi> we poore ſoules were ſo taken with the <hi>Parliament;</hi> that we thought our ſelves in <hi>Heaven at a trance,</hi> as if all was then done; but yet neglected the chiefeſt thing on our part, <hi>Repentance, and Converſion to God:</hi> we forgot the Lord, and thought our <hi>deliverance</hi> paſt: ſome few dayes paſſed ſweetly, but politike <hi>Canterbury</hi> was ſo diligent; and Catulous of his owne Inventions; he laboured in the day, and con<g ref="char:EOLhyphen"/>trived in the night to hinder our <hi>Deſignes,</hi> and to ob<g ref="char:EOLhyphen"/>ſcure
+<pb facs="tcp:112288:4"/>the bright day ſtarres then appearing; &amp; though not for his Sect, whoſe <hi>intents</hi> were wicked<g ref="char:punc">▪</g> but being provoked by our ſins, God thwarted our hopes in that Parliament, by a diſſolution therof: This gave his grace<g ref="char:EOLhyphen"/>leſſe <hi>Laud,</hi> great ſatiſfaction, his heart began to ſore a<g ref="char:EOLhyphen"/>gaine, as high as ever: but this bred ſad thoughts upon the hearts of good <hi>people,</hi> but they were conſtrain'd to <hi>patience,</hi> waiting Gods appointed time.</p>
+            <p>The <hi>Scots</hi> were counted <hi>Rebels,</hi> and <hi>traytors, Soul<g ref="char:EOLhyphen"/>diers were banded, warres were begun, bloud was ſhed on both ſides, and oh how beyond all admiration was the ſword ſo ſoone ſheathed againe: had they gone or, O the lamenta<g ref="char:EOLhyphen"/>ble spectacles that our eyes would have ſeene ere this, our Chan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>els might have flowed with bloud, and husband, wife Child, &amp;c. have pariſht before each others eyes: yet none able to helpe, the ſword spareth neither the gray haire, nor the tender babe, old age, nor virginity? But ever bleſſed be our God who hath preſerved us.</hi>
+            </p>
+            <p>The <hi>Tyrant of Canterbury,</hi> provided a ſorrowfull cup, for the Saints he drove his flock, and called his Goates together, themſelves conſtituted ungodly Oaths, &amp; ſin<g ref="char:EOLhyphen"/>full Canons, to confirme their <hi>Deſignes,</hi> and their ſilken Doctors, labour to eſtabliſh them, whoſe readineſſe and diligence, was, as if they ſoar'd on Eagles wings, to per<g ref="char:EOLhyphen"/>fect the ſame; whilſt good and godly men, wept &amp; be<g ref="char:EOLhyphen"/>wailed the Calamities we then groned under.</p>
+            <p>The great Monſter, ſtill inflamed with cruell Rage, would have all power, and all Lawes ſubject to him, and his Courts: nay, he would have mens meanes forced from them, and like a cruell Ork, in his owne quarrell, drawes the 3. Kingdomes to a <hi>Controverſie,</hi> to make them ſwimme in bloud; but O our God, <hi>Deliver us we beſeech thee from cruell bloud-thirſty Tyrants. And ever bleſſed be our good God, who in our greateſt need, in the midſt of this diſtreſſe, haeh ſet us free againe, by an happy Parliament,</hi> from that forlorne and wofull Condition, in
+<pb facs="tcp:112288:5"/>which we were, under ſo great Perills? O let us there<g ref="char:EOLhyphen"/>fore praiſe our good God, &amp; enter into Covenant with him of new <hi>Obedience,</hi> and write the memory thereof to our unborne Poſterity for ever.</p>
+            <p>Let us looke upon this cruell Ork, as he is a <hi>Traytor</hi> convicted by the <hi>High Court of Parliament,</hi> and lying under the heavy <hi>ſentence of death:</hi> by whom we have ſo long bin plagued, and groaned under yet now (by Gods providence we ſhall find) the troubled <hi>State ſet free.</hi>
+            </p>
+            <p>Let us againe caſt our eyes upon Gods, moſt ample bleſſings in the teſtimony of his favours, that we enjoy a mercifull King that loveth his <hi>people,</hi> and as carefull of our peace and profit: Let us, I ſay, magnifie the felicity of our <hi>Realme of England,</hi> for the gratious and mild go<g ref="char:EOLhyphen"/>vernment of our Royall <hi>Soveraigne,</hi> and the calling ſit<g ref="char:EOLhyphen"/>ting, and confirming, of that great Aſſembly of wiſe <hi>Se<g ref="char:EOLhyphen"/>nators</hi> in Parliament, whoſe <hi>proceedings appeare like the Balme of Gilead,</hi> to our diſeaſed Nation.</p>
+            <closer>Laus <hi>Deo.</hi>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
